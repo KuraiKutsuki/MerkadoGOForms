@@ -27,7 +27,7 @@ Each shopper will test **both Android and Web**, then submit **one questionnaire
 ## Participant journey
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[Read consent] --> B[Agree and sign]
     B --> C[Receive code<br/>and consent copy]
     C --> D[Test Android<br/>and Web]
